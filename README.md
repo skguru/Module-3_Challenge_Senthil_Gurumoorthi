@@ -43,7 +43,7 @@ The largest county turnout: Denver
 
 The winner of the election was:
 
-  -Diana Degette, who recieved 73.8% of the vote and"272,892 number of votes
+  -Diana Degette, who recieved 73.8% of the vote and "272,892" number of votes
 
 #PyPoll_Challenge.py that includes the aforementioned analysis and challenge summary is created under the folder "Election_Analysis".  
 
